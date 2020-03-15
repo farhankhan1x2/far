@@ -1,1 +1,3 @@
 # far
+hi world!
+i like to code in php,python and java(that's what i am made up of)....
